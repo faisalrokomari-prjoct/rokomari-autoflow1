@@ -178,7 +178,7 @@ export default function Home() {
 
         <p style={{ fontWeight: 600, marginBottom: 4 }}>Who can I contact for support?</p>
         <p style={{ color: "#444", marginTop: 0 }}>
-          Email <a href="mailto:support@rokomari-autoflow.vercel1.app">support@rokomari-autoflow.vercel.app</a> with any questions.
+          Email <a href="mailto:faisal.rokomari@gmail.com">faisal.rokomari@gmail.com</a> with any questions.
         </p>
       </section>
     </main>
