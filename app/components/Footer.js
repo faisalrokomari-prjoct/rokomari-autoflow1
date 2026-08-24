@@ -23,7 +23,7 @@ export default function Footer() {
         <a href="mailto:support@rokomari-autoflow1.vercel.app" style={linkStyle}>Contact</a>
       </div>
       <p style={{ margin: 0 }}>
-        © {year} Rokomari AutoFlow (rokomari-autoflow.vercel.app). Rokomari AutoFlow is an independent tool and is not
+        © {year} Rokomari AutoFlow (rokomari-autoflow1.vercel.app). Rokomari AutoFlow is an independent tool and is not
         endorsed by or affiliated with Pinterest, Inc. Pinterest is a trademark of Pinterest, Inc.
       </p>
     </footer>
