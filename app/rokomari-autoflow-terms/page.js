@@ -53,7 +53,7 @@ export default function Terms() {
       <h2>Contact</h2>
       <p>
         Questions about these terms can be sent to{" "}
-        <a href="mailto:support@rokomari-autoflow.vercel.app">support@rokomari-autoflow.vercel.app</a>.
+        <a href="mailto:support@rokomari-autoflow1.vercel.app">support@rokomari-autoflow.vercel.app</a>.
       </p>
       <p style={{ marginTop: 30 }}>
         <a href="/">← Back to Rokomari AutoFlow</a>
