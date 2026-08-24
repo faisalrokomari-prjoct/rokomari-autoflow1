@@ -12,7 +12,7 @@ export default function About() {
     <main style={{ maxWidth: 640, margin: "40px auto", fontFamily: "system-ui, sans-serif", padding: "0 16px", lineHeight: 1.6 }}>
       <h1>About Us</h1>
       <p>
-        Rokomari AutoFlow is built and maintained by Rokomari AutoFlow (rokomari-autoflow.vercel.app), an independent
+        Rokomari AutoFlow is built and maintained by Rokomari AutoFlow (rokomari-autoflow1.vercel.app), an independent
         maker of small, free web tools.
       </p>
       <p>
@@ -35,7 +35,7 @@ export default function About() {
       <h2>Get in touch</h2>
       <p>
         Questions, feedback, or issues? Email us at{" "}
-        <a href="mailto:support@rokomari-autoflow.vercel.app">support@rokomari-autoflow.vercel.app</a>.
+        <a href="mailto:support@rokomari-autoflow1.vercel.app">support@rokomari-autoflow.vercel.app</a>.
       </p>
       <p style={{ marginTop: 30 }}>
         <a href="/">← Back to Rokomari AutoFlow</a>
