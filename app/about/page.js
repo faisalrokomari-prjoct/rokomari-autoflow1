@@ -35,7 +35,7 @@ export default function About() {
       <h2>Get in touch</h2>
       <p>
         Questions, feedback, or issues? Email us at{" "}
-        <a href="mailto:support@rokomari-autoflow1.vercel.app">support@rokomari-autoflow.vercel.app</a>.
+        <a href="mailto:faisal.rokomari@gmail.com">faisal.rokomari@gmail.com</a>.
       </p>
       <p style={{ marginTop: 30 }}>
         <a href="/">← Back to Rokomari AutoFlow</a>
