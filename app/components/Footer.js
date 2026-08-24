@@ -20,7 +20,7 @@ export default function Footer() {
         <a href="/rokomari-autoflow-privacy-policy" style={linkStyle}>Privacy Policy</a>
         <a href="/rokomari-autoflow-terms" style={linkStyle}>Terms of Service</a>
         <a href="/#faq" style={linkStyle}>FAQ</a>
-        <a href="mailto:support@rokomari-autoflow.vercel.app" style={linkStyle}>Contact</a>
+        <a href="mailto:support@rokomari-autoflow1.vercel.app" style={linkStyle}>Contact</a>
       </div>
       <p style={{ margin: 0 }}>
         © {year} Rokomari AutoFlow (rokomari-autoflow.vercel.app). Rokomari AutoFlow is an independent tool and is not
