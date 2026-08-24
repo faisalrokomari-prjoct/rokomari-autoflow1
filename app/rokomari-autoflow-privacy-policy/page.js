@@ -13,7 +13,7 @@ export default function Privacy() {
       <h1>Privacy Policy — Rokomari AutoFlow (Rokomari AutoFlow)</h1>
       <p>Last updated: July 2026</p>
       <p>
-        Rokomari AutoFlow, a free tool by Rokomari AutoFlow (rokomari-autoflow.vercel.app), connects to your Pinterest
+        Rokomari AutoFlow, a free tool by Rokomari AutoFlow (rokomari-autoflow1.vercel.app), connects to your Pinterest
         account using Pinterest's official OAuth 2.0 authorization flow. We never ask for,
         see, or store your Pinterest password.
       </p>
@@ -53,7 +53,7 @@ export default function Privacy() {
       <h2>Contact</h2>
       <p>
         For questions about this policy, contact the Rokomari AutoFlow team at{" "}
-        <a href="mailto:support@rokomari-autoflow.vercel.app">support@rokomari-autoflow.vercel.app</a>.
+        <a href="mailto:support@rokomari-autoflow.vercel1.app">support@rokomari-autoflow.vercel.app</a>.
       </p>
       <p style={{ marginTop: 30 }}>
         <a href="/">← Back to Rokomari AutoFlow</a>
