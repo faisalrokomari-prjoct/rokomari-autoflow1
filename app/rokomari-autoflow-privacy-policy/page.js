@@ -53,7 +53,7 @@ export default function Privacy() {
       <h2>Contact</h2>
       <p>
         For questions about this policy, contact the Rokomari AutoFlow team at{" "}
-        <a href="mailto:support@rokomari-autoflow.vercel1.app">support@rokomari-autoflow.vercel.app</a>.
+        <a href="mailto:faisal.rokomari@gmail.com">faisal.rokomari@gmail.com</a>.
       </p>
       <p style={{ marginTop: 30 }}>
         <a href="/">← Back to Rokomari AutoFlow</a>
