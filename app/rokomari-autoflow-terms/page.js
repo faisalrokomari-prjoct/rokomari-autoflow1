@@ -13,7 +13,7 @@ export default function Terms() {
       <h1>Terms of Service — Rokomari AutoFlow (Rokomari AutoFlow)</h1>
       <p>Last updated: July 2026</p>
       <p>
-        Rokomari AutoFlow is a free tool by Rokomari AutoFlow (rokomari-autoflow.vercel.app) that lets you connect your
+        Rokomari AutoFlow is a free tool by Rokomari AutoFlow (rokomari-autoflow1.vercel.app) that lets you connect your
         own Pinterest business account and create or schedule pins to your own boards using
         the official Pinterest API v5. Rokomari AutoFlow is an independent, third-party tool and
         is not affiliated with, endorsed by, or sponsored by Pinterest, Inc.
@@ -53,7 +53,7 @@ export default function Terms() {
       <h2>Contact</h2>
       <p>
         Questions about these terms can be sent to{" "}
-        <a href="mailto:support@rokomari-autoflow1.vercel.app">support@rokomari-autoflow.vercel.app</a>.
+        <a href="mailto:faisal.rokomari@gmail.com">faisal.rokomari@gmail.com</a>.
       </p>
       <p style={{ marginTop: 30 }}>
         <a href="/">← Back to Rokomari AutoFlow</a>
